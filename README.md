@@ -1,10 +1,10 @@
-# What is this
+# What is this?
 
-Example repository to provide information for some specified issue.
+Example repository to provide example for specified issue.
 
 ## Table of Contents
 
-* [What is this](#what-is-this)
+* [What is this?](#what-is-this)
   * [Table of Contents](#table-of-contents)
   * [Issue](#issue)
   * [Authors](#authors)

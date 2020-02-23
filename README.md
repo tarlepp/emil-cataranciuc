@@ -6,13 +6,13 @@ Example repository to provide example for specified issue.
 
 * [What is this?](#what-is-this)
   * [Table of Contents](#table-of-contents)
-  * [Issue](#issue)
+  * [Issue to solve](#issue-to-solve)
     * [Main problem](#main-problem)
     * [Solution](#solution)
   * [Authors](#authors)
   * [License](#license)
 
-## Issue
+## Issue to solve
 
 One person was asking following question on Symfony Slack workspace;
 

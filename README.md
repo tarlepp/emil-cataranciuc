@@ -6,11 +6,13 @@ Example repository to provide example for specified issue.
 
 * [What is this?](#what-is-this)
   * [Table of Contents](#table-of-contents)
+    * [Main problem](#main-problem)
+    * [Solution](#solution)
   * [Issue](#issue)
   * [Authors](#authors)
   * [License](#license)
 
-# Issue
+## Issue
 
 One person was asking following question on Symfony Slack workspace;
 
@@ -22,6 +24,15 @@ ArrayObect to array: https://3v4l.org/BePPC
 
 After we discussed about that issue for a while, I just created this repository
 to show how that could be done.
+
+### Main problem
+
+You cannot get `protected` nor `private` properties like that, there is multiple
+"hacks" to access those, but I don't recommend you to use those.
+
+### Solution
+
+Just simple usage of [The Serializer Component](https://symfony.com/doc/current/components/serializer.html).
 
 ## Authors
 

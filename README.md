@@ -6,9 +6,9 @@ Example repository to provide example for specified issue.
 
 * [What is this?](#what-is-this)
   * [Table of Contents](#table-of-contents)
+  * [Issue](#issue)
     * [Main problem](#main-problem)
     * [Solution](#solution)
-  * [Issue](#issue)
   * [Authors](#authors)
   * [License](#license)
 
